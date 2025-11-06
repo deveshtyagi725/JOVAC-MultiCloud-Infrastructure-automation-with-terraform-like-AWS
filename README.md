@@ -2,7 +2,7 @@
 <h1 align="center">🚀 JOVAC – Multi-Cloud Infrastructure Automation with Terraform (AWS)</h1>
 
 <p align="center">
-  <em>Next-Gen Cloud Infrastructure Automation | Built by AI Developer 🤖 | Powered by Terraform & AWS</em>
+  <em>Next-Gen Cloud Infrastructure Automation | Built by Devesh Tyagi 🤖 | Powered by Terraform & AWS</em>
 </p>
 
 <p align="center">
@@ -147,7 +147,7 @@ Milestone	Status
 🔗 GitHub
  • LinkedIn
 
-Crafted with ❤️ + 🤖 by AI Developer (ChatGPT-5)
+Crafted with ❤️ 
 
 ⚖️ License
 
