@@ -17,7 +17,7 @@
 ---
 
 ## 📘 **Overview**
-> **JOVAC (Job Oriented Value Added Course)** is an **AI-engineered Terraform project** that delivers *multi-cloud-ready infrastructure automation* on **AWS**.  
+> **JOVAC (Job Oriented Value Added Course)** Multicloud infrastructure automation is an **AI-engineered Terraform project** that delivers *multi-cloud-ready infrastructure automation* on **AWS**.  
 > It embodies the principles of **Infrastructure as Code (IaC)**, **idempotency**, and **scalability**, offering an enterprise-grade foundation for deploying and managing cloud workloads automatically.
 
 This repository demonstrates:
